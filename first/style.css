@@ -1,0 +1,48 @@
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+
+.top-red {
+	width: 100%;
+	height: 30%;
+	background-color: red;
+}
+
+.left-blue {
+	width: 33.3%;
+	height: 70%;
+	background-color: blue;
+	float: left;
+}
+
+.middle {
+	width: 33.3%;
+	height: 70%;
+	float: left;
+
+
+
+}
+
+.middle-yellow {
+	width:100%;
+	height: 70%;
+	background-color: #ff0;
+}
+.bottom-green {
+	width: 100%;
+	height: 30%;
+	background-color: green;
+}
+
+.right-blue {
+	width: 33.3%;
+	height: 70%;
+	background-color: blue;
+	float: left;
+
+}
+
+
